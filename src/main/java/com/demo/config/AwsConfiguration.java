@@ -12,8 +12,8 @@ import com.amazonaws.services.textract.AmazonTextractClientBuilder;
 public class AwsConfiguration {
 
    
-//    private static final String AWS_ACCESS_KEY = "AKIAW3MD7LJQPRKEOOE3";
-//    private static final String AWS_SECRET_KEY = "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";
+//    private static final String AWS_ACCESS_KEY = "";
+//    private static final String AWS_SECRET_KEY = "";
 //    private static final String AWS_REGION = "us-east-1"; // Change to your region
     
     @Bean
